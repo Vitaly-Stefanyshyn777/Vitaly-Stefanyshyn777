@@ -107,12 +107,6 @@ From May 2022 to April 2023, I studied **GoIT Fullstack** courses, where I gaine
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
 </div>
 
-<style>
-  div img {
-    margin-right: 12px; /* Відступи між іконками */
-  }
-</style>
-
 ###
 
 <h3 align="left">🔥   My statistics:</h3>
