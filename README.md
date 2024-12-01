@@ -82,29 +82,54 @@ From May 2022 to April 2023, I studied **GoIT Fullstack** courses, where I gaine
 
 ###
 
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo" />
-  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
-  <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm logo" />
-  <img src="https://skillicons.dev/icons?i=pnpm" height="40" alt="pnpm logo" />
-  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo" />
-  <img src="https://skillicons.dev/icons?i=sublime" height="40" alt="sublime logo" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=npm" height="40" alt="pnpm"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pnpm" height="40" alt="pnpm"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sublime" height="40" alt="sublime"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="ts"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="scode"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker"  />
+  <img width="12" />
+  <img width="12" />
+
 </div>
 
 ###
