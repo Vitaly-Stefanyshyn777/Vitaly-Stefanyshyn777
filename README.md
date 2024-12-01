@@ -76,6 +76,7 @@ From May 2022 to April 2023, I studied **GoIT Fullstack** courses, where I gaine
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
+
 ###
 
 <h3 align="left">🛠 Technologies:</h3>
